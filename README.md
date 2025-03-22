@@ -28,7 +28,7 @@ The above will download the model's weights and run an inference endpoint...
 To view Swagger docs, go to:
 ```
 http://localhost:8000/docs#/default
-``
+```
 
 Can confirm that the deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B is the only model that can run locally on RTX 3080, 16GB RAM
 
